@@ -1,2 +1,11 @@
 # R-Statistical-Analysis
-This repository contains various statistical analyses performed using R. The analyses include One Sample T-Test, Paired Sample, Independent Sample, ANOVA, Pearson Correlation, and Chi-Square Test. Each analysis is accompanied by visual representations such as histograms, box, stem and leaf, mean, scatter plots, and more.
+
+This repository contains a series of statistical analyses conducted using R. Below is a brief description of each analysis included in this repository.
+
+
+1. One Sample T-Test
+2. Paired Sample T-Test
+3. Independent Sample T-Test
+4. ANOVA
+5. Pearson Correlation
+6. Chi-Square Test
